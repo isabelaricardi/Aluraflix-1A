@@ -1,5 +1,5 @@
  body {
-    color: rgb(253, 252, 196);
+    color: rgb(56, 0, 19);
     background: rgb(56, 0, 19);
     margin: 0px;
     font-family: "Cormorant Garamond", serif;
@@ -15,7 +15,7 @@
 }
 
  .chamada {
-    background: rgb(56, 0, 51);
+    background: rgb(253, 252, 196);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -24,7 +24,7 @@
 }
 
  .chamada-texto {
-   margin-right: 5%;
+   margin-right: 10%;
 
  }
 
