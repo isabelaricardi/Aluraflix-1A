@@ -15,7 +15,7 @@
 }
 
  .chamada {
-    background: rgb(253, 252, 196);
+    background: rgb(250, 248, 165);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -24,7 +24,7 @@
 }
 
  .chamada-texto {
-   margin-right: 10%;
+   margin-right: 40%;
 
  }
 
@@ -55,10 +55,10 @@
 
  .categoria-videos img:hover {
   opacity: 1.0;
-  border: 3px solid rgb(253, 252, 196);
+  border: 3px solid rgb(250, 248, 165);
  }
 
  .categoria h2 {
-  color: rgb(253, 252, 196);
+  color: rgb(250, 248, 165);
 }
  
