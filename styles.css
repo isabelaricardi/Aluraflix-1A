@@ -1,21 +1,21 @@
  body {
-    color:rgb(255, 255, 255);
-    background:black;
+    color:rgb(253, 252, 196);
+    background:rgb(56, 0, 51);
     margin: 0px;
     font-family: "Cormorant Garamond", serif;
     margin-bottom: 100px;
  }
 
  header {
-    border-bottom: solid 2px rgb(224, 18, 66);
+    border-bottom: solid 2px rgb(253, 252, 196);
     padding: 20px;
     font-size: 32px;
-    color: rgb(10, 91, 197);
+    color: rgb(56, 0, 51);
 
 }
 
  .chamada {
-    background: rgb(184,156,213);
+    background: rgb(56, 0, 19);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -36,19 +36,10 @@
    font-size: 20px;
  }
 
- img {
-  height: 200px;
- }
-
  .categoria-videos {
   display: flex;
   overflow-x: auto;
   gap: 10px;
- }
- 
- section {
-  padding-left: 20px;
-  padding-right: 20px;
  }
 
  .categoria {
@@ -64,10 +55,10 @@
 
  .categoria-videos img:hover {
   opacity: 1.0;
-  border: 1px, solid, green;
+  border: 3px, solid green;
  }
 
  .categoria h2 {
-  color: rgb(42, 122, 228);
+  color: rgb(250, 249, 168);
 }
  
