@@ -1,6 +1,6 @@
  body {
-    color:rgb(253, 252, 196);
-    background:rgb(56, 0, 51);
+    color: rgb(253, 252, 196);
+    background: rgb(56, 0, 51);
     margin: 0px;
     font-family: "Cormorant Garamond", serif;
     margin-bottom: 100px;
@@ -55,7 +55,7 @@
 
  .categoria-videos img:hover {
   opacity: 1.0;
-  border: 3px, solid green;
+  border: 3px solid rgb(14, 0, 12);
  }
 
  .categoria h2 {
