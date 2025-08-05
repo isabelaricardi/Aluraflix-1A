@@ -1,21 +1,21 @@
  body {
     color: rgb(253, 252, 196);
-    background: rgb(56, 0, 51);
+    background: rgb(56, 0, 19);
     margin: 0px;
     font-family: "Cormorant Garamond", serif;
     margin-bottom: 100px;
  }
 
  header {
-    border-bottom: solid 2px rgb(253, 252, 196);
-    padding: 20px;
+    border-bottom: solid 2px rgb(56, 0, 19);
+    padding: 40px;
     font-size: 32px;
-    color: rgb(56, 0, 51);
+    color: rgb(56, 0, 19);
 
 }
 
  .chamada {
-    background: rgb(56, 0, 19);
+    background: rgb(56, 0, 51);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -59,6 +59,6 @@
  }
 
  .categoria h2 {
-  color: rgb(250, 249, 168);
+  color: rgb(253, 252, 196);
 }
  
